@@ -6,4 +6,5 @@ Key code scripts corresponding to the study of the impact of transfer learning o
 
 Note:
 If you use any of the ideas or code from this work please cite:
+
 Abdulsadig, R.S., IMPACT OF TRANSFER LEARNING ON THE CLASSIFICATION OF MICROSCOPE SLIDE IMAGES FOR IMPROVING BREAST CANCER TREATMENT USING DEEP LEARNING (Dissertation, Lancaster University). DOI: 10.13140/RG.2.2.16133.01768
